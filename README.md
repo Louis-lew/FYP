@@ -1,0 +1,8 @@
+![IK_Amble](IK_Cheetah.gif)
+![IK_Amble](IK_Amble.gif)
+![IK_Amble](IK_Walk_Exploit.gif)
+![IK_Amble](OL_Cheetah.gif)
+![IK_Amble](OL_Amble.gif)
+![IK_Amble](OL_Walk_Hop_Start.gif)
+![IK_Amble](OL_Turn.gif)
+![IK_Amble](OL_Turn.gif)
